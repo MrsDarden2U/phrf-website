@@ -1,0 +1,30 @@
+﻿<footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <p class="brand-name">The Potters House Relief Fund</p>
+        <p class="brand-sub">National Youth Network</p>
+        <p>A 501(c)(3) nonprofit organization serving teens and families across Ohio, Kentucky, and Georgia.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Programs</h4>
+        <a href="#programs">Financial assistance</a>
+        <a href="#programs">Job training</a>
+        <a href="#programs">Mentoring</a>
+        <a href="#programs">Academic tutoring</a>
+        <a href="#programs">College grants</a>
+        <a href="https://6kh.a6e.myftpupload.com/phrf-youth-program">Youth Program</a>
+      </div>
+      <div class="footer-col">
+        <h4>Organization</h4>
+        <a href="#about">About us</a>
+        <a href="#help">Get help</a>
+        <a href="#donate">Donate</a>
+        <a href="#contact">Contact</a>
+        <a href="mailto:contact@phrfcharities.org">contact@phrfcharities.org</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 The Potters House Relief Fund. All rights reserved.</p>
+      <p><a href="#" style="color: #7BB5C8; text-decoration: none;">phrfcharities.org</a></p>
+    </div>
+  </footer>
